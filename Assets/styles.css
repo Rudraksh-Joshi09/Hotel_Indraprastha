@@ -233,7 +233,7 @@ a {
 
 /* ========== ABOUT SECTION ========== */
 .about-section {
-    padding: 80px 0;
+    padding: 30px 0;
     background: white;
 }
 
@@ -321,7 +321,7 @@ a {
 
 /* ========== ROOMS SECTION ========== */
 .rooms-section {
-    padding: 80px 0;
+    padding: 10px 0;
     background: #f9f9f9;
 }
 
@@ -378,7 +378,7 @@ a {
 
 /* ========== SERVICES SECTION ========== */
 .services-section {
-    padding: 80px 0;
+    padding: 0px 0;
     background: white;
 }
 
@@ -435,7 +435,7 @@ a {
 
 /* ========== TESTIMONIALS SECTION ========== */
 .testimonials-section {
-    padding: 80px 0;
+    padding: 0px 0;
     background: #f9f9f9;
 }
 
